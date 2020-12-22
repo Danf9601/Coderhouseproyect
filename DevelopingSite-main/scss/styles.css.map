@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,OAAO,CAAC;EACN,UAAU,EAAE,GAAG;CAChB",
+    "sources": [
+        "styles.scss",
+        "_navbar.scss",
+        "_carrousel.scss",
+        "_home.scss",
+        "_about.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
